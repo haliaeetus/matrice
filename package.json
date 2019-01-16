@@ -1,0 +1,28 @@
+{
+  "name": "matrice",
+  "version": "0.1.0",
+  "description": "High performance matrix manipulation in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haliaeetus/matrice.git"
+  },
+  "keywords": [
+    "matrix",
+    "matrices",
+    "linear algebra",
+    "matrix multiplication"
+  ],
+  "author": "Benjamin Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haliaeetus/matrice/issues"
+  },
+  "homepage": "https://github.com/haliaeetus/matrice#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
